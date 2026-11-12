@@ -35,3 +35,6 @@ target/
 
 # Env
 .env
+
+# Local notes
+CLAUDE.md
